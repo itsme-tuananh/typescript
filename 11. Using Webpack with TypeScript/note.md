@@ -1,0 +1,4 @@
+- Webpack is a Bundling & "Build Orchestration" Tool
+  - Code bundles, yêu cầu ít Import hơn
+  - Optimized (minified) code, download ít code hơn
+  - Có thể thêm nhiều Build Step dễ dàng
